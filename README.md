@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chaitanyabelekar59@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19g4-Yj8N_vTmTQrw8ulQtEgmS_WjD8jf/view?usp=drivesdk](https://drive.google.com/file/d/19g4-Yj8N_vTmTQrw8ulQtEgmS_WjD8jf/view?usp=drivesdk)
+- 📄 Know about my experiences https://ln.run/M3Fbj
 
 - ⚡ Fun fact **I think I am funny**
 
