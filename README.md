@@ -32,12 +32,12 @@ I'm a **Robotics and Automation Engineering** undergraduate with a passion for e
 ---
 
 ## 🖥️ Featured Projects
-### 🔹 [Project Name 1](#)
-A brief description of your project.  
-**Technologies**: Python, ROS 2, Gazebo
+### 🔹 [Project 1: ROS-Based Integer Classifier](#)
+This project involves creating ROS 2-compatible nodes to classify integers as odd or even. The system utilizes Python scripts for generating, processing, and categorizing integers in real-time. It’s a beginner-friendly project that demonstrates the fundamentals of working with ROS nodes and topics.  
+**Technologies**: Python, ROS 2
 
-### 🔹 [Project Name 2](#)
-A brief description of your project.  
+### 🔹 [Project 2: Virtual Lab Simulator](#)
+A MATLAB-based simulation platform designed to help students visualize and interact with scientific experiments. The simulator focuses on offering hands-on experience in a virtual environment, making it accessible for educational purposes. 
 **Technologies**: MATLAB, Virtual Lab Simulator
 
 ---
