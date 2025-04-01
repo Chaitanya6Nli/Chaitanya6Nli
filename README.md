@@ -55,7 +55,7 @@ I'm always open to connecting with fellow enthusiasts, developers, and professio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChaitanyaBelekar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chaitanya-belekar/)
 ## ✨ Fun Fact!
 
-I enjoy [mention a hobby or interest, e.g., playing chess, hiking in the Sahyadri mountains, reading science fiction novels].
+I enjoy playing chess,reading and writing science fiction novels.
 
 ---
 
