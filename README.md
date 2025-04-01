@@ -23,9 +23,9 @@ Eventually, I want to become a software developer. Robotics software sounds pret
 ## My current skills in a nutshell:
 
 -   **Coding:** Python
--   **Robotics Stuff:** ROS (basics), Kinematics
--   **AI/ML:** ANNs (just getting started)
--   **Design:** CAD, Computer Graphics
+-   **Robotics Stuff:** ROS, Kinematics
+-   **AI/ML:** ANN and Fuzzy Systems 
+-   **Design:** CAD (Fusion 360, BricsCAD, Eagle), Computer Graphics
 -   **Other:** Some basic ML and control systems knowledge.
 
 ## What I'm currently digging into:
@@ -53,7 +53,7 @@ Always up for connecting with people interested in this stuff.
 
 ## Random Fact:
 
-I also enjoy [mention a hobby or interest, e.g., playing video games, sketching, listening to music].
+I also enjoy listening to music, writting and reading.
 
 ---
 
